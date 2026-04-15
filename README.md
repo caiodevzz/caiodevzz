@@ -1,6 +1,5 @@
 
 # 👋 Olá, eu sou o Caio Mateus
-# 👋 Caio Mateus
 
 💻 Estudante de Computação  
 🚀 Focado em Java e Node.js  
