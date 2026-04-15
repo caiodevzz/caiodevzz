@@ -72,5 +72,3 @@ Me chamo Caio Mateus, sou estudante de Computação focado em Java e Node.js. Ap
 
 ## 📫 Contato
 - Email: caiomateus270@gmail.com
-### 📫 Contato
-Email: caiomateus270@gmail.com
