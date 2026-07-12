@@ -25,17 +25,11 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=tokyonight&hide_border=true" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodevzz&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ---
 
 ## 📌 Projetos em destaque
