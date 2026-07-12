@@ -1,5 +1,5 @@
-<div>
-  <gif>https://pin.it/15JGFq7Lc</gif>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 </div>
 
 # 👋 Olá, eu sou o Caio Mateus
@@ -29,14 +29,13 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 
 ## 📊 Estatísticas do GitHub
 
-<div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiodevzz&theme=tokyonight" />
 </p>
-</div>
-<div>
-  <p align="center"> <img src="https://streak-stats.demolab.com?user=caiodevzz&theme=tokyonight&hide_border=true" /> </p>
-</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=caiodevzz&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -55,5 +54,4 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 ---
 
 ⭐ Sempre em evolução, buscando minha primeira oportunidade como desenvolvedor backend.
-
 
