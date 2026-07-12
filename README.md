@@ -5,13 +5,13 @@
 
 ---
 
-Me chamo **Caio Mateus**, sou estudante de Computação com foco em desenvolvimento backend. Sou apaixonado por tecnologia e estou sempre buscando evoluir minhas habilidades na construção de APIs, sistemas escaláveis e boas práticas de desenvolvimento.
+Sou estudante de Computação com foco em desenvolvimento backend. Tenho interesse em construir APIs, sistemas escaláveis e aplicar boas práticas de desenvolvimento.
 
-Atualmente, estou me aprofundando no ecossistema Java e em tecnologias modernas utilizadas no mercado.
+Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modernas do ecossistema Java e cloud.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias que estou utilizando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
@@ -23,45 +23,35 @@ Atualmente, estou me aprofundando no ecossistema Java e em tecnologias modernas 
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <a href="https://github.com/caiodevzz?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/caiodevzz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/caiodevzz?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/caiodevzz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
-
-## 📊 Estatísticas
-
-<p align="left">
+<p align="center">
   <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=tokyonight&hide_border=true" 
   />
   <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodevzz&theme=tokyonight&layout=compact&langs_count=6" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodevzz&layout=compact&theme=tokyonight&hide_border=true" 
   />
 </p>
 
+---
 
-<br/>
-<br/>
+## 📌 Projetos em destaque
+
+🔹 Em breve... (adicione aqui seus melhores projetos, como APIs, sistemas ou sites)
 
 ---
 
 ## 📫 Contato
 
-* Email: [caiomateus270@gmail.com](mailto:caiomateus270@gmail.com)
+* 📧 Email: [caiomateus270@gmail.com](mailto:caiomateus270@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/caio-m-611718367/
+* 💻 GitHub: https://github.com/caiodevzz
+
+---
+
+⭐ Sempre em evolução, buscando minha primeira oportunidade como desenvolvedor backend.
+
 
