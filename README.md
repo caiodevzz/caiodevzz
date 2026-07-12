@@ -44,7 +44,7 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 
 ## 📌 Projetos em destaque
 
-🔹 Em breve... (adicione aqui seus melhores projetos, como APIs, sistemas ou sites)
+🔹 Em breve...
 
 ---
 
