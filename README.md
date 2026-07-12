@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9b/18/88/9b1888f36c3bad563087acc0fc0638ab.gif="300px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50ZjA5ZjBzMDJ4emxxYW1oNGd5amtjbnBuaHUzODlyaWl0ZjM2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nfh0brn7xRvZ2eCcVO/giphy.gif="300px"/>
 </div>
 
 # 👋 Olá, eu sou o Caio Mateus
