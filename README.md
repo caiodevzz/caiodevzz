@@ -29,7 +29,9 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiodevzz&theme=tokyonight" />
 </p>
-
+</div>
+<div>
+  <p align="center"> <img src="https://streak-stats.demolab.com?user=caiodevzz&theme=tokyonight&hide_border=true" /> </p>
 </div>
 
 ---
