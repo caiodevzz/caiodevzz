@@ -32,13 +32,14 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caiodevzz&theme=tokyonight&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiodevzz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodevzz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
