@@ -39,10 +39,11 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodevzz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div>
+<a href="https://github.com/caiodevzz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodevzz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
