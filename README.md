@@ -38,20 +38,19 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caiodevzz&color=blueviolet&style=for-the-badge"/>
 </p>
-<br>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodevzz&theme=dracula&hide_border=true"/>
 </p>
-</br>
-<br>
+
 <p align="center">
   <img height="180em" src="https://caiodevzz.vercel.app/api?username=caiodevzz&show_icons=true&theme=dark"/>
 </p>
-</p>
-</br>
+
 ---
 
 ## 📌 Projetos em destaque
