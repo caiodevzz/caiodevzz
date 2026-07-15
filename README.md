@@ -25,33 +25,6 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
 
 ## 🚀 Tecnologias
 
-<p align="center"><div align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW50ZjA5ZjBzMDJ4emxxYW1oNGd5amtjbnBuaHUzODlyaWl0ZjM2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nfh0brn7xRvZ2eCcVO/giphy.gif" 
-    width="250px"
-  />
-</div>
-
-<h1 align="center">👋 Olá, eu sou o Caio Mateus</h1>
-
-<p align="center">
-💻 Estudante de Computação <br>
-🚀 Focado em Desenvolvimento Backend com Java
-</p>
-
----
-
-## 🧠 Sobre mim
-
-Sou estudante de Computação com foco em desenvolvimento backend.
-Tenho interesse em construir APIs, sistemas escaláveis e aplicar boas práticas de desenvolvimento.
-
-Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossistema Java e cloud.
-
----
-
-## 🚀 Tecnologias
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
