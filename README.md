@@ -39,12 +39,13 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USER&theme=dracula"/>
+  <img src="https://komarev.com/ghpvc/?username=caiodevzz&color=blueviolet&style=for-the-badge"/>
 </p>
+<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodevzz&theme=dracula&hide_border=true"/>
 </p>
-
+</br>
 ---
 
 ## 📌 Projetos em destaque
