@@ -32,8 +32,10 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 
 ## 📊 Estatísticas do GitHub
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiodevzz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiodevzz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiodevzz&theme=tokyonight" />
 </p>
 
 
