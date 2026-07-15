@@ -48,7 +48,8 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
 </br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiodevzz&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://caiodevzz.vercel.app/api?username=caiodevzz&show_icons=true&theme=dark"/>
+</p>
 </p>
 </br>
 ---
