@@ -30,7 +30,6 @@ Atualmente estou estudando e evoluindo minhas habilidades com tecnologias modern
 
 ---
 
-## 📊 Estatísticas do GitHub
 
 ## 📊 Estatísticas do GitHub
 
