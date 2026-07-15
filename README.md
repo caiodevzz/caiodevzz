@@ -47,8 +47,6 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodevzz&theme=dracula&hide_border=true"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodevzz&theme=dracula"/>
-
 ---
 
 ## 📌 Projetos em destaque
