@@ -38,7 +38,9 @@ Atualmente estou evoluindo minhas habilidades com tecnologias modernas do ecossi
 ---
 
 ## 📊 Estatísticas do GitHub
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiodevzz&theme=dracula"/>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodevzz&theme=dracula&hide_border=true"/>
 </p>
